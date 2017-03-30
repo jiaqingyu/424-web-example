@@ -10,3 +10,7 @@ this to see how rebasing and mergeing works.
 
 ##Conflict on Master
 This section will be different on the conflictbranch.
+
+##Method
+How will we resolve this conflict, since the "base" now has a
+conflict in it?
