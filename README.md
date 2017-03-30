@@ -10,6 +10,9 @@ this to see how rebasing and mergeing works.
 
 ##Conflict on Master
 This section will be different on the conflictbranch.
+This section is now different on the conflictbranch as soon as we
+save, close, add, and commit it.
+This section will be different on the conflictbranch.
 
 ##Method
 How will we resolve this conflict, since the "base" now has a
